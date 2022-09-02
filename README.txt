@@ -1,3 +1,6 @@
+1. change the ip to yours
+2. first run the "server_chat" file, then the "client_start_gui" file.
+
 RULES:
 *	To start a private session you have to send 'private' and after that
 	send the user name that you want to talk with (example: 'vader').
